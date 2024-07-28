@@ -1,0 +1,5 @@
+model_configs:
+  latent_size: 100
+  depth_feature_maps_generator: 3
+  depth_feature_maps_discriminator: 3
+  n_channels: 3

@@ -1,0 +1,5 @@
+src/notebooks
+tags
+data/fake_images
+**pycache**
+**.pyc**

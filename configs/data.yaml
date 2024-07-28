@@ -1,0 +1,4 @@
+data_configs:
+  data_dir: data
+  image_size: 64
+  nc: 3
